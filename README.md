@@ -10,7 +10,7 @@ This project was created by "Hemanth Uppara" as a front-end practice project.
  🚀 Live Demo
 
 🔗Play the game here:
-[https://upparahemanth.github.io/tic-tac-toe/](https://upparahemanth.github.io/tic-tac-toe/)
+https://upparahemanth.github.io/Tic-Tac-Toe/
 
 ---
 
